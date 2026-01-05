@@ -109,7 +109,7 @@ data-warehouse-project/
 │
 ├── README.md
 ├── LICENSE
-└── requirements.txt
+├
 ```
 
 ---
