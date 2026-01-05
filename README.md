@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** 🚀  
-This repository showcases an end-to-end **data warehousing and analytics solution** built using **SQL Server**, following modern data engineering best practices. The project is designed as a **portfolio project** to demonstrate practical skills in data architecture, ETL, data modeling, and analytics.
+This repository showcases an end-to-end **data warehousing and analytics solution** built using **SQL Server**, following modern data engineering best practices. The project is based on data architecture, ETL, data modeling, and analytics.
 
 ---
 
