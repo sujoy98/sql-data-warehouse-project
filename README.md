@@ -93,10 +93,10 @@ data-warehouse-project/
 ├── datasets/                    # Source CSV files
 │
 ├── docs/                        # Architecture & documentation
-│   ├── etl.drawio
-│   ├── data_architecture.drawio
-│   ├── data_flow.drawio
-│   ├── data_models.drawio
+│   ├── etl.png
+│   ├── data_architecture.png
+│   ├── data_flow.png
+│   ├── data_models.png
 │   ├── data_catalog.md
 │   ├── naming-conventions.md
 │
