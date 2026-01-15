@@ -7,7 +7,8 @@ This repository showcases an end-to-end **data warehousing and analytics solutio
 
 ## 🏗️ Data Architecture
 
-The project follows the **Medallion Architecture** with three layers:
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![Data Architecture](docs/data_architecture.png)
 
 ### 🥉 Bronze Layer
 - Stores raw data exactly as received from source systems
