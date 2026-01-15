@@ -100,6 +100,7 @@ data-warehouse-project/
 │   ├── data_models.png
 │   ├── data_catalog.md
 │   ├── naming-conventions.md
+│   ├── data_integration.png
 │
 ├── scripts/                     # SQL scripts
 │   ├── bronze/                  # Raw ingestion
